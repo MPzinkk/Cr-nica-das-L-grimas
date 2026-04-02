@@ -1,5 +1,5 @@
 ## Lista de Arquétipos
-- [[Atleta]]
+- ![[Atleta]]
 - [[Cética]]
 - [[Esbelto]]
 - [[Herói]]
