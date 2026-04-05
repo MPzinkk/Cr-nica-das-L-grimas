@@ -10,5 +10,5 @@
 ## Uma Estrela Que Caiu do Céu
 > ???
 
-## Setembro de 98
+## Setembro de 92
 > ???
