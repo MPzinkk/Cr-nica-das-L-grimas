@@ -2,7 +2,7 @@
 [[Cenário]]
 
 ## Espécies
-[[Vampiro A Máscara]]
-[[Mago A Ascensão]]
-[[Lobisomem O Apocalipse]]
-[[Caçador A Vingança]]
+- [[Vampiro A Máscara]]
+- [[Mago A Ascensão]]
+- [[Lobisomem O Apocalipse]]
+- [[Caçador A Vingança]]
